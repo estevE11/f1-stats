@@ -1,0 +1,22 @@
+{
+  "name": "f1-stats",
+  "version": "0.0.11",
+  "description": "NodeJS API to get F1 Stats.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [
+    "api",
+    "f1",
+    "formula1",
+    "formulaone",
+    "stats"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parse-json": "^3.0.0",
+    "request": "^2.83.0"
+  }
+}
